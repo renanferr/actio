@@ -1,0 +1,11 @@
+version: "2"
+packages:
+  - name: sqlgen
+    path: internal/adapters/state/sqlite/sqlgen
+    queries: ./queries.sql
+    schema: ./schema.sql
+    engine: sqlite
+    gen:
+      go: true
+      sql: false
+    sql_package: sqlite
