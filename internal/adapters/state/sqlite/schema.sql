@@ -1,0 +1,2 @@
+-- SQLite schema skeleton for Actio state persistence
+-- Tables will be defined in later milestones.

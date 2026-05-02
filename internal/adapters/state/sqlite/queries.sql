@@ -1,0 +1,2 @@
+-- SQL query skeleton for Actio state persistence
+-- Queries will be defined in later milestones.
